@@ -1134,8 +1134,8 @@ const STAMP_LIST = {
             { position: 19, name: "Powtry Stamp", img: "sta_powtry.gif", rarity: "r101" },
             { position: 20, name: "No Stamp", img: "", rarity: "" },
             { position: 21, name: "Kari and Topsi Stamp", img: "sta_kari_topsi.gif", rarity: "r101" },
-            { position: 22, name: "No Stamp", img: "", rarity: "" },
-            { position: 23, name: "No Stamp", img: "", rarity: "" },
+            { position: 22, name: "Christmas Bruce Stamp", img: "sta_christmas_bruce.gif", rarity: "r101" },
+            { position: 23, name: "Holiday King Altador Stamp", img: "sta_holiday_altador.gif", rarity: "r101" },
             { position: 24, name: "No Stamp", img: "", rarity: "" },
             { position: 25, name: "No Stamp", img: "", rarity: "" }
         ]
@@ -1355,7 +1355,7 @@ const STAMP_LIST = {
         "list": [
             { position: 1, name: "Nostalgic Grey Draik Stamp", img: "stamp_grey_draik.gif", rarity: "r101" },
             { position: 2, name: "Grey Kari Charm", img: "fon_greykari_charm.gif", rarity: "r101" },
-            { position: 3, name: "No Stamp", img: "", rarity: "" },
+            { position: 3, name: "Grey Tsunami Coin", img: "8ic7c8374m.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
@@ -1415,12 +1415,12 @@ const STAMP_LIST = {
         "list": [
             { position: 1, name: "No Stamp", img: "", rarity: "" },
             { position: 2, name: "No Stamp", img: "", rarity: "" },
-            { position: 3, name: "No Stamp", img: "", rarity: "" },
+            { position: 3, name: "Tea Time Stamp", img: "ch61kbg6ih.gif", rarity: "r101" },
             { position: 4, name: "No Stamp", img: "", rarity: "" },
             { position: 5, name: "No Stamp", img: "", rarity: "" },
             { position: 6, name: "No Stamp", img: "", rarity: "" },
-            { position: 7, name: "No Stamp", img: "", rarity: "" },
-            { position: 8, name: "No Stamp", img: "", rarity: "" },
+            { position: 7, name: "Cheerleader UsukiStamp", img: "stamp_neopia_usukicheer.gif", rarity: "r101" },
+            { position: 8, name: "No Stamp", img: "" , rarity: "" },
             { position: 9, name: "No Stamp", img: "", rarity: "" },
             { position: 10, name: "Council of Leaders Stamp", img: "stamp_councilleaders.gif", rarity: "r101" },
             { position: 11, name: "No Stamp", img: "", rarity: "" },
